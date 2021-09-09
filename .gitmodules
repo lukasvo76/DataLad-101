@@ -5,5 +5,5 @@
 	datalad-id = b3ca2718-8901-11e8-99aa-a0369f7c647e
 [submodule "midterm_project"]
 	path = midterm_project
-	url = https://github.com/adswa/midtermproject
+	url = https://github.com/lukasvo76/midtermproject
 	datalad-id = 0e122116-e589-48e4-957f-56957c7d8978
